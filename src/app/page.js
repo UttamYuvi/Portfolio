@@ -91,7 +91,7 @@ export default function HomePage() {
               fontSize: 48,
             }}
           >
-            Crafting Web Experiences with React.js and Node.js
+            Crafting Web Experiences with React.js and Node.js.
           </div>
           <div style={{ display: "flex", margin: "1rem", fontSize: 18 }}>
             As a skilled full-stack developer, I am dedicated to turning ideas
