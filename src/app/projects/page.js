@@ -15,7 +15,7 @@ const Projects = () => {
           <ul>
             {tabs.map((item) => (
               <li
-                key={item.project}
+                key={item.id}
                 onClick={() => setSelectedTab(item)}
                 className={item === selectedTab ? "selected" : ""}
               >

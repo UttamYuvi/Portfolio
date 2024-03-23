@@ -6,17 +6,6 @@ import { motion } from "framer-motion";
 const { default: Link } = require("next/link");
 
 export default function HomePage() {
-  const number = [
-    2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
-    2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
-  ];
-
-  const repeat = () => {
-    return number.map((item) => {
-      return <div>{item}</div>;
-    });
-  };
-
   return (
     <div className="main">
       {/* Header with circle dark mode light mode button with short name & links of teitter linkedin etc */}

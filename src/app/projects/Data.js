@@ -1,5 +1,6 @@
 export const Data = [
   {
+    id: "1",
     project: "DocXvision",
     heading: "Freelancing Project",
     subData:
@@ -8,6 +9,7 @@ export const Data = [
     link: "https://docxvision.com/",
   },
   {
+    id: "2",
     project: "TUG",
     heading: "TUG-The Ultimate Garments an E-Commarce Website",
     subData:
@@ -16,6 +18,7 @@ export const Data = [
     link: "https://nimble-pithivier-24f485.netlify.app/",
   },
   {
+    id: "3",
     project: "Restaurant",
     heading: "Restaurant Management System POS",
     subData:
